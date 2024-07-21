@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=e8ff75&height=200&section=header&text=I'm%20steamedEggMaster&fontSize=60&fontColor=006400&stroke=FFFFFF&desc=YumYum🥄&descSize=20&descAlign=20&descAlignY=70" />
 </div>
 
-<div style="position: absolute; left: 50px;">
+<div style="position: absolute; left: 300px;">
   <text> • 🖥 Backend Engineer </text>
   <br>
   <text> • 🌍 Korean </text>
