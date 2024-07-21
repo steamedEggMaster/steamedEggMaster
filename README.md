@@ -9,11 +9,11 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,spring,mysql,redis" />
+    <img src="https://skillicons.dev/icons?i=java,idea,spring,mysql,redis,nginx" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,aws,docker,github,jenkins" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,github,jenkins" />
   </a>
 </p>
 
