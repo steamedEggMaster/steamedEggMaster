@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,spring,mysql,redis,nginx" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,nginx" />
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -32,5 +32,12 @@
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=githubactions" />
+  </a>
+</div>
+<br>
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea" />
   </a>
 </div>
