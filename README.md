@@ -5,6 +5,8 @@
 
 <div align="center">
   <text> • 🖥 Backend Engineer </text>
+  <br>
+  <text> • 🌍 Korean </text>
 </div>
 
 <!--내용 부분-->
