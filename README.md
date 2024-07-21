@@ -11,7 +11,7 @@
 </div>
 <br>
 
-![steamedEggMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=steamedEggMaster&show=reviews)
+![steamedEggMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=steamedEggMaster&show=reviews&show_icons=true&theme=dark)
 
 <!--내용 부분-->
 <h3 align="left">✨ Tech Stack ✨</h3>
