@@ -5,7 +5,8 @@
 
 <br>
 
-- 💻 Web Backend Engineer
+- 🖥 Web Backend Engineer
+- <a href="https://www.flaticon.com/kr/free-icons/" title="대한민국 아이콘">대한민국 아이콘 제작자: Freepik - Flaticon</a>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
