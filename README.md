@@ -23,17 +23,17 @@
   </a>
 </p>
 <br>
-<h3 align="left">🍽 Sub Stack 🍽</h3>
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python" />
-  </a>
-</div>
-<br>
 <h3 align="left">📚 Studying 📚</h3>
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=githubactions,rabbitmq,redis" />
+  </a>
+</div>
+<br>
+<h3 align="left">🍽 Sub Stack 🍽</h3>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,python" />
   </a>
 </div>
 <br>
