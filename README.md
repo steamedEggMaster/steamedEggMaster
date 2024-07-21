@@ -9,7 +9,7 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,spring,mysql,redis,ubuntu,aws,docker,github,jenkins" />
+    <img src="https://skillicons.dev/icons?i=java,idea,spring,mysql,redis" />
   </a>
   <br>
   <a href="https://skillicons.dev">
