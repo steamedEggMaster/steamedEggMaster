@@ -2,7 +2,7 @@
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=e8ff75&height=300&section=header&text=I'm%20steamedEggMaster&fontSize=60&fontColor=5445ff&stroke=FFFFFF&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=e8ff75&height=300&section=header&text=I'm%20steamedEggMaster&fontSize=60&fontColor=ff1751&stroke=FFFFFF&animation=blink" />
 </div>
 
 <!--내용 부분-->
