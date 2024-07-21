@@ -15,11 +15,11 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,linux" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,jenkins,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,nginx,jenkins" />
   </a>
 </p>
 <br>
