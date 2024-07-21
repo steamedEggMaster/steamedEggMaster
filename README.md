@@ -38,6 +38,6 @@
 <h3 align="left">🛠 Tools 🛠</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,github,aws" />
+    <img src="https://skillicons.dev/icons?i=idea,github,aws,visualstudio" />
   </a>
 </div>
