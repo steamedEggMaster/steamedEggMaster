@@ -5,7 +5,7 @@
   <br>
   <text> • 🌍 Korean </text>
   <br>
-  <text> • 📃 Korean </text>
+  <text> • 📃 "The only way to do great work is to love what you do." – Steve Jobs </text>
   <br>
   <text> • 💌 cksdud5014@naver.com </text>
 </div>
