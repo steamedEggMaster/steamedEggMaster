@@ -27,7 +27,7 @@
 <h3 align="left">✨ Sub Stack ✨</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python" />
   </a>
 </div>
 
