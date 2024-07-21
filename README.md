@@ -5,7 +5,7 @@
 
 <br>
 
-          - 💻 Web Backend Engineer
+- 💻 Web Backend Engineer
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
