@@ -6,7 +6,7 @@
 <br>
 
 - 🖥 Web Backend Engineer
-- :flag_south_korea: korean
+- 🇰🇷 korean
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
