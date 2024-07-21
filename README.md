@@ -5,7 +5,7 @@
 
 <br>
 
-- 🖥 Web Backend Engineer
+- 💻 Web Backend Engineer
 - 🇰🇷 korean
 
 <!--내용 부분-->
