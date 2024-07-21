@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git" />
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@
 <h3 align="left">📚 Studying 📚</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=githubactions,rabbitmq,redis" />
   </a>
 </div>
 <br>
