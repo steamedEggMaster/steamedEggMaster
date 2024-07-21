@@ -5,6 +5,8 @@
   <br>
   <text> • 🌍 Korean </text>
   <br>
+  <text> • 📃 Korean </text>
+  <br>
   <text> • 💌 cksdud5014@naver.com </text>
 </div>
 
