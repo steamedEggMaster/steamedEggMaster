@@ -2,7 +2,7 @@
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=e8ff75&height=200&section=header&text=I'm%20steamedEggMaster&fontSize=60&fontColor=000000&stroke=FFFFFF&desc=YumYum🥄&descSize=20&descAlign=20&descAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=e8ff75&height=200&section=header&text=I'm%20steamedEggMaster&fontSize=60&fontColor=000000&stroke=FFFFFF&desc=YumYum🥄&descSize=20&descAlign=20&descAlignY=70" />
 </div>
 
 <!--내용 부분-->
