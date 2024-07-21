@@ -5,7 +5,7 @@
   <br>
   <text> • 🌍 Korean </text>
   <br>
-  <text> • 📃 "The only way to do great work is to love what you do." – Steve Jobs </text>
+  <text> • 📃 "It does not matter how slowly you go as long as you do not stop." – Confucius
   <br>
   <text> • 💌 cksdud5014@naver.com </text>
 </div>
