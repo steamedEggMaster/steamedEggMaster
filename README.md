@@ -17,7 +17,7 @@
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,github,jenkins,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,git,jenkins,linux" />
   </a>
 </p>
 <br>
@@ -38,6 +38,6 @@
 <h3 align="left">🛠 Tools 🛠</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea" />
+    <img src="https://skillicons.dev/icons?i=idea,github,aws" />
   </a>
 </div>
