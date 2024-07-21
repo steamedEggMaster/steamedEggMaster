@@ -10,7 +10,7 @@
   <br>
   <text> • 💌 cksdud5014@naver.com </text>
 </div>
-  <br>
+
 <!--내용 부분-->
 <h3 align="left">✨ Tech Stack ✨</h3>
 <br>
@@ -23,16 +23,14 @@
     <img src="https://skillicons.dev/icons?i=aws,docker,github,jenkins,linux" />
   </a>
 </p>
-
+<br>
 <h3 align="left">🍽 Sub Stack 🍽</h3>
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,python" />
   </a>
 </div>
-
 <br>
-
 <h3 align="left">📚 Studying 📚</h3>
 <div align="left">
   <a href="https://skillicons.dev">
