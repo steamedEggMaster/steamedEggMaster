@@ -45,6 +45,6 @@
 </div>
 <br>
 
-![steamedEggMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=steamedEggMaster&show=reviews&show_icons=true&theme=synthwave)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steamedEggMaster&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![steamedEggMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=steamedEggMaster&show=reviews&show_icons=true&theme=synthwave)
