@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+My+Github🥰;I'm+SteamedEggMaster!;&font=Monoton&size=35&vCenter=true&color=00BFFF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+My+Github🥰;I'm+SteamedEggMaster!;&font=VT323&size=35&vCenter=true&color=00BFFF)](https://git.io/typing-svg)
 <div align="left">
   <text> • 🖥 Backend Engineer </text>
   <br>
