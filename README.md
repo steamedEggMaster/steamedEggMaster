@@ -11,6 +11,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,idea,spring,mysql,redis,ubuntu,aws,docker,github,jenkins" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,aws,docker,github,jenkins" />
+  </a>
 </p>
 
 
