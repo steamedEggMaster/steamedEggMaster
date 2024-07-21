@@ -31,13 +31,13 @@
 <h3 align="left">📚 Studying 📚</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions" />
+    <img src="https://skillicons.dev/icons?i=githubactions,rabbitmq" />
   </a>
 </div>
 <br>
 <h3 align="left">🛠 Tools 🛠</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,github,aws,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=idea,github,aws,visualstudio,notion,postman" />
   </a>
 </div>
