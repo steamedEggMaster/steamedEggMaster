@@ -10,6 +10,8 @@
   <text> • 💌 cksdud5014@naver.com </text>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 <!--내용 부분-->
 <h3 align="left">✨ Tech Stack ✨</h3>
 
