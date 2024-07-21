@@ -13,11 +13,11 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,nginx" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,git" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,jenkins,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,nginx,jenkins,linux" />
   </a>
 </p>
 <br>
