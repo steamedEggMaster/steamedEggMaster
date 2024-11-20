@@ -22,7 +22,7 @@
 <h3 align="left">📚 Studying 📚</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,rabbitmq,redis" />
+    <img src="https://skillicons.dev/icons?i=githubactions,kafka,redis" />
   </a>
 </div>
 <br>
