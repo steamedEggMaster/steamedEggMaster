@@ -15,14 +15,14 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,nginx,jenkins" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,nginx,jenkins,githubactions" />
   </a>
 </p>
 <br>
 <h3 align="left">📚 Studying 📚</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,kafka,redis" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,kafka,redis" />
   </a>
 </div>
 <br>
