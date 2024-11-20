@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,nginx,jenkins,githubactions" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,nginx,jenkins,githubactions,argocd" />
   </a>
 </p>
 <br>
