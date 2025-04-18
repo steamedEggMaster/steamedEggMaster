@@ -3,12 +3,12 @@
 <div align="left">
   <text> • 🖥 DevOps Engineer </text>
   <br>
+  <text> • 💌 cksdud5014@naver.com </text>
+  <br>
   <text> • 🌍 Korean </text>
   <br>
   <text> • 📃 "It does not matter how slowly you go as long as you do not stop."  <br>
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – Confucius
-  <br>
-  <text> • 💌 cksdud5014@naver.com </text>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steamedEggMaster&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
