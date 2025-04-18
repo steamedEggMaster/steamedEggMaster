@@ -5,7 +5,8 @@
   <br>
   <text> • 🌍 Korean </text>
   <br>
-  <text> • 📃 "It does not matter how slowly you go as long as you do not stop." – Confucius
+  <text> • 📃 "It does not matter how slowly you go as long as you do not stop."  <br>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – Confucius
   <br>
   <text> • 💌 cksdud5014@naver.com </text>
 </div>
