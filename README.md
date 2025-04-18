@@ -12,6 +12,7 @@
 </div>
 
 <br>
+
 ### Projects
 1. [OmniCard](https://github.com/2025-Gachon-capstone/.github) - AI 기반 카드 혜택 갱신 플랫폼
 2. [Flow](https://github.com/code-review-platform-flow/.github) - 코드 리뷰 플랫폼
