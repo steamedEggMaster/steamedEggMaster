@@ -21,9 +21,9 @@
 
 ## Projects
 1. [terraform-google-multi-env](https://github.com/steamedEggMaster/terraform-google-multi-env) - 멀티 환경 운영 가능한 Terraform Module
-1. [OmniCard](https://github.com/2025-Gachon-capstone/.github) - AI 기반 카드 혜택 갱신 플랫폼(진행중)
-2. [Flow](https://github.com/code-review-platform-flow/.github) - 코드 리뷰 플랫폼
-3. [Second-Chance](https://github.com/GCU-Second-Chance/.github) - 유기견 정보 확인 및 공유 웹앱
+1. [OmniCard](https://github.com/2025-Gachon-capstone/.github) - AI 기반 카드 혜택 갱신 플랫폼 `진행중`
+2. [Flow](https://github.com/code-review-platform-flow/.github) - 코드 리뷰 플랫폼 `종료`
+3. [Second-Chance](https://github.com/GCU-Second-Chance/.github) - 유기견 정보 확인 및 공유 웹앱 `종료`
 
 <br>
 
