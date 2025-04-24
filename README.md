@@ -12,7 +12,7 @@
 </div>
 
 ## Contribution
-1. terraform-google-sql-db - [Pull Rqeust 주소](https://github.com/terraform-google-modules/terraform-google-sql-db/pull/725) / Merged
+1. terraform-google-sql-db - [Pull Rqeust](https://github.com/terraform-google-modules/terraform-google-sql-db/pull/725) / Merged
 
 ## Projects
 1. [terraform-google-multi-env](https://github.com/steamedEggMaster/terraform-google-multi-env) - 멀티 환경 운영 가능한 Terraform Module
