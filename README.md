@@ -12,7 +12,9 @@
 </div>
 
 ## Contribution
-1. terraform-google-sql-db / [Pull Rqeust](https://github.com/terraform-google-modules/terraform-google-sql-db/pull/725) / [Merged - 25.04.25](https://github.com/terraform-google-modules/terraform-google-sql-db/commit/056e436283f2802c8e00b3dd17390bff83f95d9b)
+| Project | PR | Merged |
+|--------|-----|--------|
+| `terraform-google-sql-db` | [Pull Request #725](https://github.com/terraform-google-modules/terraform-google-sql-db/pull/725) | [✅ Merged on 2025-04-25](https://github.com/terraform-google-modules/terraform-google-sql-db/commit/056e436283f2802c8e00b3dd17390bff83f95d9b) |
 
 ## Projects
 1. [terraform-google-multi-env](https://github.com/steamedEggMaster/terraform-google-multi-env) - 멀티 환경 운영 가능한 Terraform Module
