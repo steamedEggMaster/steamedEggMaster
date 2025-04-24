@@ -11,13 +11,8 @@
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – Confucius
 </div>
 
-## Interests
-- Cloud Vendor Independent OpenSource
-  - Kubernetes, ArgoCD, Grafana, ...
-- IaC Language
-  - HCL-Terraform
-- Language
-  - Java / Springboot
+## Contribution
+1. terraform-google-sql-db - [Pull Rqeust 주소](https://github.com/terraform-google-modules/terraform-google-sql-db/pull/725) / Merged
 
 ## Projects
 1. [terraform-google-multi-env](https://github.com/steamedEggMaster/terraform-google-multi-env) - 멀티 환경 운영 가능한 Terraform Module
@@ -25,8 +20,13 @@
 2. [Flow](https://github.com/code-review-platform-flow/.github) - 코드 리뷰 플랫폼 `종료`
 3. [Second-Chance](https://github.com/GCU-Second-Chance/.github) - 유기견 정보 확인 및 공유 웹앱 `종료`
 
-## Contribution
-1. terraform-google-sql-db - [Pull Rqeust 주소](https://github.com/terraform-google-modules/terraform-google-sql-db/pull/725) / Merged
+## Interests
+- Cloud Vendor Independent OpenSource
+  - Kubernetes, ArgoCD, Grafana, ...
+- IaC Language
+  - HCL-Terraform
+- Language
+  - Java / Springboot
 
 <br>
 
