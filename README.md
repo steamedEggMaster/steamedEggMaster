@@ -30,4 +30,4 @@
 - IaC Language
   - HCL-Terraform
 - Language
-  - Java / Springboot
+  - Java / Springboot, Go / NoFramework
