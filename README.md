@@ -19,7 +19,7 @@
 ## Projects
 | Name | Description | Status |
 |------|-------------|--------|
-| [slack-plugin-access-request](https://github.com/teletwoboy/teleport-plugin-slack-access-request) | 슬랙 기반의 Access Request를 위한 쿠버네티스 환경에서 동작하는 Teleport OSS 플러그인 | `개발중` |
+| [slack-plugin-access-request](https://github.com/teletwoboy/teleport-plugin-slack-access-request) | 슬랙 기반의 Access Request를 위한 Teleport OSS 플러그인 | `개발중` |
 | [OmniCard](https://github.com/2025-Gachon-capstone/.github) | AI 기반 맞춤형 카드 혜택 플랫폼 | `종료` |
 | [terraform-google-multi-env](https://github.com/steamedEggMaster/terraform-google-multi-env) | 멀티 환경 운영 가능한 Terraform Module | `사용 및 유지보수` |
 | [Flow](https://github.com/code-review-platform-flow/.github) | 가천대학교 코드 리뷰 플랫폼 | `종료` |
